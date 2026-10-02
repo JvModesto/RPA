@@ -142,4 +142,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais de
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Victor Speorin**
+Desenvolvido por **Victor Speorin** e **João Modesto**
+
+
